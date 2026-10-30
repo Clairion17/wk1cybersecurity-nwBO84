@@ -1,4 +1,4 @@
-# wk1cybersecurity-nwBO84
+# AMARACHUKWU ANAGBOR wk1cybersecurity-nwBO84
 This is my cybersecurity lab setup
 Step 1: I downloaded and installed virtual box on my windows (64-bit)
 Step 2: configured my VB to expert mode. I added a private NAT Network 10.0.0.2/24 .
