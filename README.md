@@ -32,9 +32,9 @@ Step 6: I logout and took a snapshot on my VB to save my current state.
 
 ## 📌 Project Overview
 
-This project focuses on setting up a **virtual cybersecurity and penetration-testing laboratory** using VirtualBox and Kali Linux.
+This project majors on setting up a **virtual cybersecurity and penetration-testing laboratory** using VirtualBox and Kali Linux.
 
-The purpose of the lab is to create a controlled environment where cybersecurity tools, network scanning, reconnaissance, vulnerability assessment, and other security-testing activities can be performed safely and repeatedly.
+The objective of the lab is to create a controlled environment where cybersecurity tools, network scanning, reconnaissance, vulnerability assessment, and other security-testing activities can be performed safely and repeatedly.
 
 The lab is configured on a private virtual network so that additional machines can be added later and used as targets for authorized security testing.
 
@@ -93,7 +93,7 @@ Additional target machines can be added to the same virtual network in future pr
 | ⚡ Processor       | Intel Core i7      |
 | 🧰 Hypervisor      | VirtualBox 7.2  |
 | 🐉 Security OS     | Kali Linux 2026.2  |
-| 🧠 Kali RAM        | 2048 MB            |
+| 🧠 Kali RAM        | 3570 MB            |
 | 🌐 Virtual Network | NAT Network        |
 | 📡 Network Address | 10.0.0.0/24        |
 | 🐧 Kali IP Address | 10.0.0.2/24        |
@@ -154,7 +154,7 @@ Adapter Type: Intel PRO/1000 MT Desktop
 The VM was allocated:
 
 ```text
-RAM: 2048 MB
+RAM: 3570 MB
 ```
 ![](3-screenshot-kali-linux.png)
 A shared folder was also configured for transferring required files between the host operating system and the Kali VM.
@@ -311,7 +311,7 @@ This laboratory is intended strictly for education purposes only.
 **Amarachukwu Anagbor**\
 Cybersecurity Professional B084
 
-LinkedIn: [https://www.linkedin.com/in/waqaskarim/](https://www.linkedin.com/in/amarachukwuanagbor/)
+LinkedIn: (https://www.linkedin.com/in/amarachukwuanagbor/)
 
 ---
 
